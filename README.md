@@ -37,7 +37,7 @@ Gunakan tombol berikut untuk keperluan pengembangan dan debugging:
 
 | Aktif | Tidak Aktif | Kadang Aktif |
 | :--- | :--- | :--- |
-| Tidak Ada | Tidak Ada | Saya
+| Tidak Ada | Tidak Ada | Saya 😭
 ---
 
 > **Note:** Mod ini masih dalam tahap pengembangan. Jika menemukan bug atau kesalahan translasi, silakan lapor di bagian *Issues* atau DM saya (probkn) di Discord.
