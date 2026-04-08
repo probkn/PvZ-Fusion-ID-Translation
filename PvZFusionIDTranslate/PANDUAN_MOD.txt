@@ -1,0 +1,6 @@
+PANDUAN MOD TRANSLASI (Oleh: Probkn)
+
+1. STRINGS: Edit 'Strings/PvzIndoStrings.json' untuk kata menu biasa.
+2. REGEX: Edit 'Strings/PvzIndoRegex.json' untuk teks dinamis (seperti angka).
+3. CHANGELOG: Isi 'changelog.txt' akan muncul di panel awal game.
+4. RELOAD: Tekan F5 saat game jalan untuk update teks tanpa restart.
