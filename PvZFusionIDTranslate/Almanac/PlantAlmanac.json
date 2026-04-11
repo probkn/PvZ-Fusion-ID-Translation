@@ -583,7 +583,7 @@
         },
         {
             "seedType": 351,
-            "name": "Jamur Matahari Besar [TD]",
+            "name": "Jamur Matahari Gemoy [TD]",
             "introduce": "<size=14><color=black>Dia adalah seorang bankir berpengalaman. Menyimpan matahari di banknya akan memberikan bunga yang tinggi. \"Ini deposito berjangka, jadi kamu belum bisa mengambil mataharimu sekarang,\" ucapnya tegas pada Matahari Emperor yang ingin menarik simpanannya.</color></size>",
             "info": "<size=14><color=#0d266b>Produsen matahari yang menyerap matahari di sekitar dan melipatgandakannya di tabungan.\n\n<color=black>Produksi: </color><color=red>25 / 25 detik</color>\n<color=black>Fitur Khusus: </color>\n<indent=5%><color=red>(1) Menyerap matahari dalam radius 5x5, meningkatkan nilainya sebesar 30% dan menyimpannya.\n(2) Saat memproduksi matahari, ia akan menarik tabungan dalam kelipatan 25.</color></indent>\n\n<color=black>Upgrade: </color>\n<indent=5%><color=red>(1) Dasar (60 Matahari): Kecepatan produksi +50%.\n(2) Cabang 1 (160 Matahari): Kecepatan produksi +200%.\n(2) Cabang 2 (160 Matahari): Efek pelipatgandaan matahari x2.</color></indent></size>",
             "cost": "<size=14>Biaya: <color=red>150</color>\nCooldown: <color=red>7.5 Detik</color></size>"
@@ -1522,8 +1522,8 @@
         },
         {
             "seedType": 1031,
-            "name": "Bocil Matahari",
-            "introduce": "<color=#3D1400>Bocil Matahari selalu tumbuh diam-diam di sudut yang gelap, namun dia terus mengumpulkan Matahari dengan sabar. “Aku tahu aku lemah,” kata Bocil Matahari, “tapi Matahari dariku sangatlah penting, aku adalah titik awal dari segala jalan yang bercahaya.” Tidak ada yang berani membantahnya; di malam hari ada dia, dan bukan cuma dia.</color>",
+            "name": "Matahari Bocil",
+            "introduce": "<color=#3D1400>Matahari Bocil selalu tumbuh diam-diam di sudut yang gelap, namun dia terus mengumpulkan Matahari dengan sabar. “Aku tahu aku lemah,” kata Matahari Bocil, “tapi Matahari dariku sangatlah penting, aku adalah titik awal dari segala jalan yang bercahaya.” Tidak ada yang berani membantahnya; di malam hari ada dia, dan bukan cuma dia.</color>",
             "info": "<size=14><color=#0d266b>Menghasilkan sedikit Matahari, lalu menghasilkan lebih banyak setelah tumbuh besar.\n\n<color=black>Produksi Sinar: </color><color=red>15 / 25 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Tanaman tipe rendah (Bocil). Bisa ditanam dengan sangat rapat.\n(2) Akan tumbuh besar setelah 120 detik, meningkatkan produksi Matahari menjadi 25.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Bocil + Bunga Matahari</color></color></size>",
             "cost": null
         },
@@ -3021,7 +3021,7 @@
         },
         {
             "seedType": 1245,
-            "name": "Jamur Matahari Besar",
+            "name": "Jamur Matahari Gemoy",
             "introduce": "<color=#3D1400>Dia adalah bankir senior. Menabung matahari di banknya memberikan bunga tinggi. “Ini tabungan berjangka, kau belum bisa mengambilnya sekarang,” katanya pada Sun-nut yang butuh uang cepat.</color>",
             "info": "<size=14><color=#0d266b>Produsen surya yang menyerap matahari sekitar dan menambah nilainya.\n\n<color=black>Produksi: </color><color=red>25 / 20 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Menyerap matahari dalam radius 5x5, meningkatkan nilainya sebesar 30% dan menyimpannya.\n(2) Saat berproduksi, dia mengeluarkan simpanan tersebut dalam kelipatan 25.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Bunga Matahari + Jamur Gemoy</color></color></size>",
             "cost": ""
@@ -3581,14 +3581,14 @@
         },
         {
             "seedType": 1325,
-            "name": "Jamur Es Matahari",
+            "name": "Es Matahari",
             "introduce": "<color=#3D1400>Di taman, dia sejarang matahari di kutub utara. Es mambo rasa jeruk matahari buatannya sangat populer baik di kalangan tanaman maupun zombie, bahkan jika itu berarti zombie tersebut harus kehilangan sisa panas tubuh mereka hingga membeku.</color>",
             "info": "<size=14><color=#0d266b>Mencair secara bertahap seiring waktu, melepaskan udara dingin dan sinar matahari.\n\n<color=black>Produksi Sinar: </color><color=red>25 / 25 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Saat memproduksi sinar, setiap zombie yang beku akan menjatuhkan 15 sinar matahari.\n(2) Dua produksi sinar pertama melepaskan efek Jamur Es (hanya status dingin, tidak membeku).\n(3) Produksi sinar ketiga melepaskan efek pembekuan Jamur Es secara penuh, lalu dia menghilang.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Bunga Matahari + Jamur Es</color></color></size>",
             "cost": ""
         },
         {
             "seedType": 1326,
-            "name": "Jamur Hipno Matahari",
+            "name": "Hipno Matahari",
             "introduce": "<color=#3D1400>Dia selalu ikut kompetisi lempar dart di taman. Dia bersembunyi dan melemparkan dart berbentuk matahari ke zombie di darat maupun udara. Meski sangat ahli, dia belum pernah menang medali karena panitia tidak pernah bisa menemukannya bersembunyi di mana.</color>",
             "info": "<size=14><color=#0d266b>Jamur Hipno yang memproduksi sinar matahari. Saat menghilang, menghasilkan sinar lentur yang memantul di antara zombie.\n\n<color=black>Produksi Sinar: </color><color=red>25 / 25 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Saat meninggalkan arena, menciptakan Sinar Lentur yang mencari musuh (memprioritaskan zombie yang terhipnotis).\n(2) Sinar Lentur memberikan 100 kerusakan (200 pada zombie terhipnotis) dan menjatuhkan 15-25 sinar matahari.\n(3) Memantul hingga 10 kali sebelum berubah menjadi item 15 sinar matahari.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Jamur Hipno + Bunga Matahari</color></color></size>",
             "cost": ""
