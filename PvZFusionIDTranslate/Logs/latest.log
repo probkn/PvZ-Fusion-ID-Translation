@@ -1,67 +1,232 @@
---- New Session Started at 04/11/2026 11:58:12 ---
-[11:58:12] [INFO] [Loader] Changelog dimuat.
-[11:58:12] [INFO] [Loader] Sukses: 1581 Teks, 196 Regex.
-[11:58:12] [INFO] [Textures] Pre-loading all textures
-[11:58:12] [INFO] [Textures] Loaded texture: Damage Calculation of 3.4.2 (Bahasa Indonesia).png
-[11:58:12] [INFO] [Textures] Loaded texture: FinalWave.png
-[11:58:12] [INFO] [Textures] Loaded texture: FlagMeterLevelProgress.png
-[11:58:12] [INFO] [Textures] Loaded texture: Graves.png
-[11:58:12] [INFO] [Textures] Loaded texture: HugeWave.png
-[11:58:12] [INFO] [Textures] Loaded texture: StartPlant.png
-[11:58:12] [INFO] [Textures] Loaded texture: StartReady.png
-[11:58:12] [INFO] [Textures] Loaded texture: StartSet.png
-[11:58:12] [INFO] [Textures] Loaded texture: Logo3.4.png
-[11:58:12] [INFO] [Textures] Loaded texture: Logo3.42.png
-[11:58:12] [INFO] [Textures] Loaded texture: Logo3.5.png
-[11:58:12] [INFO] [Textures] Loaded texture: LogoSnow.png
-[11:58:12] [INFO] [Textures] Loaded texture: 标题合集.png
-[11:58:12] [INFO] [Textures] Loaded texture: FlagMeterLevelProgress.png
-[11:58:12] [INFO] [Textures] Loaded texture: Logo3.0.png
-[11:58:12] [INFO] [Textures] Loaded texture: MainMenu.png
-[11:58:12] [INFO] [Textures] Loaded texture: MainMenu3.0.png
-[11:58:12] [INFO] [Textures] Loaded texture: MainMenu3.0travel2.png
-[11:58:12] [INFO] [Textures] Loaded texture: MainMenutravel.png
-[11:58:12] [INFO] [Textures] Loaded texture: mysterious.png
-[11:58:12] [INFO] [Textures] Loaded texture: mysterious_highlight.png
-[11:58:12] [INFO] [Textures] Loaded texture: NewAdv.png
-[11:58:12] [INFO] [Textures] Loaded texture: options_menuback.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_Adventure_button.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_Adventure_highlight.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_Almanac.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_AlmanacHighlight.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_Challenges_button.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_Challenges_highlight.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_Challenge_button.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_Challenge_highlight.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_Help1.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_Help2.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_Options1.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_Options2.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_Quit1.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_Quit2.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_Store.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_StoreHighlight.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_Survival_button.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_Survival_highlight.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_Vasebreaker_button.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_vasebreaker_highlight.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_WoodSign2.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_WoodSign2_press.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_ZenGarden.png
-[11:58:12] [INFO] [Textures] Loaded texture: SelectorScreen_ZenGardenHighlight.png
-[11:58:12] [INFO] [Textures] Loaded texture: SZW.png
-[11:58:12] [INFO] [Textures] Loaded texture: TowerEnter.png
-[11:58:12] [INFO] [Textures] Loaded texture: travel.png
-[11:58:12] [INFO] [Textures] Loaded texture: 深渊入口.png
-[11:58:12] [INFO] [Textures] Loaded texture: 钥匙经典.png
-[11:58:12] [INFO] [Textures] Loaded texture: Doom.png
-[11:58:12] [INFO] [Textures] Loaded texture: ExplosionPowie.png
-[11:58:12] [INFO] [Textures] Loaded texture: ExplosionSpudow.png
-[11:58:12] [INFO] [Textures] Loaded texture: guang.png
-[11:58:12] [INFO] [Textures] Loaded texture: Sproing.png
-[11:58:12] [INFO] [Textures] Loaded texture: SunExplosionPowie.png
-[11:58:12] [INFO] [Textures] Loaded 57 textures in: 156 ms
-[11:58:12] [INFO] [Font] Switched to: Boogaloo-Regular.ttf (1/4)
-[11:58:12] [INFO] [Almanac] Loaded: 577 plant and 191 zombie.
-[11:58:12] [INFO] [Achievements] Loaded 77 entries.
-[11:58:13] [INFO] [MOD] Mod loaded in: 498ms.
+--- New Session Started at 04/11/2026 17:00:56 ---
+[17:00:56] [INFO] [Loader] Changelog dimuat.
+[17:00:56] [INFO] [Loader] Sukses: 1581 Teks, 196 Regex.
+[17:00:56] [INFO] [Textures] Pre-loading all textures
+[17:00:56] [INFO] [Textures] Loaded texture: Damage Calculation of 3.4.2 (Bahasa Indonesia).png
+[17:00:56] [INFO] [Textures] Loaded texture: FinalWave.png
+[17:00:56] [INFO] [Textures] Loaded texture: FlagMeterLevelProgress.png
+[17:00:56] [INFO] [Textures] Loaded texture: Graves.png
+[17:00:56] [INFO] [Textures] Loaded texture: HugeWave.png
+[17:00:56] [INFO] [Textures] Loaded texture: StartPlant.png
+[17:00:56] [INFO] [Textures] Loaded texture: StartReady.png
+[17:00:56] [INFO] [Textures] Loaded texture: StartSet.png
+[17:00:56] [INFO] [Textures] Loaded texture: Logo3.4.png
+[17:00:56] [INFO] [Textures] Loaded texture: Logo3.42.png
+[17:00:56] [INFO] [Textures] Loaded texture: Logo3.5.png
+[17:00:56] [INFO] [Textures] Loaded texture: LogoSnow.png
+[17:00:56] [INFO] [Textures] Loaded texture: 标题合集.png
+[17:00:56] [INFO] [Textures] Loaded texture: FlagMeterLevelProgress.png
+[17:00:56] [INFO] [Textures] Loaded texture: Logo3.0.png
+[17:00:56] [INFO] [Textures] Loaded texture: MainMenu.png
+[17:00:56] [INFO] [Textures] Loaded texture: MainMenu3.0.png
+[17:00:56] [INFO] [Textures] Loaded texture: MainMenu3.0travel2.png
+[17:00:56] [INFO] [Textures] Loaded texture: MainMenutravel.png
+[17:00:56] [INFO] [Textures] Loaded texture: mysterious.png
+[17:00:56] [INFO] [Textures] Loaded texture: mysterious_highlight.png
+[17:00:56] [INFO] [Textures] Loaded texture: NewAdv.png
+[17:00:56] [INFO] [Textures] Loaded texture: options_menuback.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_Adventure_button.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_Adventure_highlight.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_Almanac.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_AlmanacHighlight.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_Challenges_button.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_Challenges_highlight.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_Challenge_button.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_Challenge_highlight.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_Help1.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_Help2.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_Options1.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_Options2.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_Quit1.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_Quit2.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_Store.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_StoreHighlight.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_Survival_button.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_Survival_highlight.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_Vasebreaker_button.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_vasebreaker_highlight.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_WoodSign2.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_WoodSign2_press.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_ZenGarden.png
+[17:00:56] [INFO] [Textures] Loaded texture: SelectorScreen_ZenGardenHighlight.png
+[17:00:56] [INFO] [Textures] Loaded texture: SZW.png
+[17:00:56] [INFO] [Textures] Loaded texture: TowerEnter.png
+[17:00:56] [INFO] [Textures] Loaded texture: travel.png
+[17:00:56] [INFO] [Textures] Loaded texture: 深渊入口.png
+[17:00:56] [INFO] [Textures] Loaded texture: 钥匙经典.png
+[17:00:56] [INFO] [Textures] Loaded texture: Doom.png
+[17:00:56] [INFO] [Textures] Loaded texture: ExplosionPowie.png
+[17:00:56] [INFO] [Textures] Loaded texture: ExplosionSpudow.png
+[17:00:56] [INFO] [Textures] Loaded texture: guang.png
+[17:00:56] [INFO] [Textures] Loaded texture: Sproing.png
+[17:00:56] [INFO] [Textures] Loaded texture: SunExplosionPowie.png
+[17:00:56] [INFO] [Textures] Loaded 57 textures in: 420 ms
+[17:00:56] [INFO] [Font] Switched to: Boogaloo-Regular.ttf (1/4)
+[17:00:56] [INFO] [Almanac] Loaded: 577 plant and 191 zombie.
+[17:00:56] [INFO] [Achievements] Loaded 77 entries.
+[17:00:57] [INFO] [MOD] Mod loaded in: 1197ms.
+[17:01:27] [INFO] [Update] Mengecek sinkronisasi data...
+[17:01:29] [INFO] --------------------------------------------------
+[17:01:29] [INFO] [Update] Welcome Developer!
+[17:01:29] [INFO] [Leak]: -
+[17:01:29] [INFO] --------------------------------------------------
+[17:01:31] [INFO] -------------------------------------------
+[17:01:31] [INFO] Memulai Sinkronisasi Aset...
+[17:01:31] [INFO] Reloading Strings .... (1/7)
+[17:01:31] [INFO] [Loader] Changelog dimuat.
+[17:01:31] [INFO] [Loader] Sukses: 1581 Teks, 196 Regex.
+[17:01:31] [INFO] Reloading Force Update .... (2/7)
+[17:01:31] [INFO] Reloading Regex Rules .... (3/7)
+[17:01:31] [INFO] Reloading Almanac Data .... (4/7)
+[17:01:31] [INFO] [Almanac] Loaded: 577 plant and 191 zombie.
+[17:01:31] [INFO] Reloading Textures .... (5/7)
+[17:01:31] [INFO] [Textures] Pre-loading all textures
+[17:01:31] [INFO] [Textures] Loaded texture: Damage Calculation of 3.4.2 (Bahasa Indonesia).png
+[17:01:32] [INFO] [Textures] Loaded texture: FinalWave.png
+[17:01:32] [INFO] [Textures] Loaded texture: FlagMeterLevelProgress.png
+[17:01:32] [INFO] [Textures] Loaded texture: Graves.png
+[17:01:32] [INFO] [Textures] Loaded texture: HugeWave.png
+[17:01:32] [INFO] [Textures] Loaded texture: StartPlant.png
+[17:01:32] [INFO] [Textures] Loaded texture: StartReady.png
+[17:01:32] [INFO] [Textures] Loaded texture: StartSet.png
+[17:01:32] [INFO] [Textures] Loaded texture: Logo3.4.png
+[17:01:32] [INFO] [Textures] Loaded texture: Logo3.42.png
+[17:01:32] [INFO] [Textures] Loaded texture: Logo3.5.png
+[17:01:32] [INFO] [Textures] Loaded texture: LogoSnow.png
+[17:01:32] [INFO] [Textures] Loaded texture: 标题合集.png
+[17:01:32] [INFO] [Textures] Loaded texture: FlagMeterLevelProgress.png
+[17:01:32] [INFO] [Textures] Loaded texture: Logo3.0.png
+[17:01:32] [INFO] [Textures] Loaded texture: MainMenu.png
+[17:01:32] [INFO] [Textures] Loaded texture: MainMenu3.0.png
+[17:01:32] [INFO] [Textures] Loaded texture: MainMenu3.0travel2.png
+[17:01:32] [INFO] [Textures] Loaded texture: MainMenutravel.png
+[17:01:32] [INFO] [Textures] Loaded texture: mysterious.png
+[17:01:32] [INFO] [Textures] Loaded texture: mysterious_highlight.png
+[17:01:32] [INFO] [Textures] Loaded texture: NewAdv.png
+[17:01:32] [INFO] [Textures] Loaded texture: options_menuback.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_Adventure_button.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_Adventure_highlight.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_Almanac.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_AlmanacHighlight.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_Challenges_button.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_Challenges_highlight.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_Challenge_button.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_Challenge_highlight.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_Help1.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_Help2.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_Options1.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_Options2.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_Quit1.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_Quit2.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_Store.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_StoreHighlight.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_Survival_button.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_Survival_highlight.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_Vasebreaker_button.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_vasebreaker_highlight.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_WoodSign2.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_WoodSign2_press.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_ZenGarden.png
+[17:01:32] [INFO] [Textures] Loaded texture: SelectorScreen_ZenGardenHighlight.png
+[17:01:32] [INFO] [Textures] Loaded texture: SZW.png
+[17:01:32] [INFO] [Textures] Loaded texture: TowerEnter.png
+[17:01:33] [INFO] [Textures] Loaded texture: travel.png
+[17:01:33] [INFO] [Textures] Loaded texture: 深渊入口.png
+[17:01:33] [INFO] [Textures] Loaded texture: 钥匙经典.png
+[17:01:33] [INFO] [Textures] Loaded texture: Doom.png
+[17:01:33] [INFO] [Textures] Loaded texture: ExplosionPowie.png
+[17:01:33] [INFO] [Textures] Loaded texture: ExplosionSpudow.png
+[17:01:33] [INFO] [Textures] Loaded texture: guang.png
+[17:01:33] [INFO] [Textures] Loaded texture: Sproing.png
+[17:01:33] [INFO] [Textures] Loaded texture: SunExplosionPowie.png
+[17:01:33] [INFO] [Textures] Loaded 57 textures in: 1245 ms
+[17:01:33] [INFO] Reloading Achievements .... (6/7)
+[17:01:33] [INFO] [Achievements] Cache dibersihkan untuk reload.
+[17:01:33] [INFO] [Achievements] Loaded 77 entries.
+[17:01:33] [INFO] Reloading Store Windows .... (7/7)
+[17:01:33] [INFO] Done! Seluruh aset berhasil diperbarui.
+[17:01:33] [INFO] -------------------------------------------
+[17:01:37] [INFO] -------------------------------------------
+[17:01:37] [INFO] Memulai Sinkronisasi Aset...
+[17:01:37] [INFO] Reloading Strings .... (1/7)
+[17:01:37] [INFO] [Loader] Changelog dimuat.
+[17:01:37] [INFO] [Loader] Sukses: 1581 Teks, 196 Regex.
+[17:01:37] [INFO] Reloading Force Update .... (2/7)
+[17:01:37] [INFO] Reloading Regex Rules .... (3/7)
+[17:01:37] [INFO] Reloading Almanac Data .... (4/7)
+[17:01:37] [INFO] [Almanac] Loaded: 577 plant and 191 zombie.
+[17:01:37] [INFO] Reloading Textures .... (5/7)
+[17:01:37] [INFO] [Textures] Pre-loading all textures
+[17:01:37] [INFO] [Textures] Loaded texture: Damage Calculation of 3.4.2 (Bahasa Indonesia).png
+[17:01:37] [INFO] [Textures] Loaded texture: FinalWave.png
+[17:01:37] [INFO] [Textures] Loaded texture: FlagMeterLevelProgress.png
+[17:01:37] [INFO] [Textures] Loaded texture: Graves.png
+[17:01:37] [INFO] [Textures] Loaded texture: HugeWave.png
+[17:01:38] [INFO] [Textures] Loaded texture: StartPlant.png
+[17:01:38] [INFO] [Textures] Loaded texture: StartReady.png
+[17:01:38] [INFO] [Textures] Loaded texture: StartSet.png
+[17:01:38] [INFO] [Textures] Loaded texture: Logo3.4.png
+[17:01:38] [INFO] [Textures] Loaded texture: Logo3.42.png
+[17:01:38] [INFO] [Textures] Loaded texture: Logo3.5.png
+[17:01:38] [INFO] [Textures] Loaded texture: LogoSnow.png
+[17:01:38] [INFO] [Textures] Loaded texture: 标题合集.png
+[17:01:38] [INFO] [Textures] Loaded texture: FlagMeterLevelProgress.png
+[17:01:38] [INFO] [Textures] Loaded texture: Logo3.0.png
+[17:01:38] [INFO] [Textures] Loaded texture: MainMenu.png
+[17:01:38] [INFO] [Textures] Loaded texture: MainMenu3.0.png
+[17:01:38] [INFO] [Textures] Loaded texture: MainMenu3.0travel2.png
+[17:01:38] [INFO] [Textures] Loaded texture: MainMenutravel.png
+[17:01:38] [INFO] [Textures] Loaded texture: mysterious.png
+[17:01:38] [INFO] [Textures] Loaded texture: mysterious_highlight.png
+[17:01:38] [INFO] [Textures] Loaded texture: NewAdv.png
+[17:01:38] [INFO] [Textures] Loaded texture: options_menuback.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_Adventure_button.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_Adventure_highlight.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_Almanac.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_AlmanacHighlight.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_Challenges_button.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_Challenges_highlight.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_Challenge_button.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_Challenge_highlight.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_Help1.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_Help2.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_Options1.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_Options2.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_Quit1.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_Quit2.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_Store.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_StoreHighlight.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_Survival_button.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_Survival_highlight.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_Vasebreaker_button.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_vasebreaker_highlight.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_WoodSign2.png
+[17:01:38] [INFO] [Textures] Loaded texture: SelectorScreen_WoodSign2_press.png
+[17:01:39] [INFO] [Textures] Loaded texture: SelectorScreen_ZenGarden.png
+[17:01:39] [INFO] [Textures] Loaded texture: SelectorScreen_ZenGardenHighlight.png
+[17:01:39] [INFO] [Textures] Loaded texture: SZW.png
+[17:01:39] [INFO] [Textures] Loaded texture: TowerEnter.png
+[17:01:39] [INFO] [Textures] Loaded texture: travel.png
+[17:01:39] [INFO] [Textures] Loaded texture: 深渊入口.png
+[17:01:39] [INFO] [Textures] Loaded texture: 钥匙经典.png
+[17:01:39] [INFO] [Textures] Loaded texture: Doom.png
+[17:01:39] [INFO] [Textures] Loaded texture: ExplosionPowie.png
+[17:01:39] [INFO] [Textures] Loaded texture: ExplosionSpudow.png
+[17:01:39] [INFO] [Textures] Loaded texture: guang.png
+[17:01:39] [INFO] [Textures] Loaded texture: Sproing.png
+[17:01:39] [INFO] [Textures] Loaded texture: SunExplosionPowie.png
+[17:01:39] [INFO] [Textures] Loaded 57 textures in: 1706 ms
+[17:01:40] [INFO] Reloading Achievements .... (6/7)
+[17:01:40] [INFO] [Achievements] Cache dibersihkan untuk reload.
+[17:01:40] [INFO] [Achievements] Loaded 77 entries.
+[17:01:40] [INFO] Reloading Store Windows .... (7/7)
+[17:01:40] [INFO] Done! Seluruh aset berhasil diperbarui.
+[17:01:40] [INFO] -------------------------------------------
+[17:07:15] [INFO] [UI] Toggle Physical Log.
+[17:10:15] [CMD] User executed: crash
+[17:10:15] [INFO] Execute: crash
+[17:10:15] [ERROR] Unknown command: crash
+[17:10:22] [CMD] User executed: -crash
+[17:10:22] [INFO] Execute: -crash
+[17:10:22] [ERROR] FATAL: Manual Crash Triggered via Console!
+[17:10:22] [FATAL] SHUTDOWN INITIATED BY USER (-crash)
