@@ -844,7 +844,7 @@
             "seedType": 919,
             "name": "Trikipli Phoenix",
             "introduce": "<color=#3D1400>Tak ada yang tahu apakah api benar-benar membawa kehidupan baru. Tanaman lain hanya menjadi abu, tapi dia menjadi legenda baru. “Aku harus berhasil demi mereka.”</color>",
-            "info": "<size=14><color=#0d266b>Lahir kembali dari abu phoenix.\n\n<color=black>Syarat Penggunaan: </color><color=red>Mode Travel</color>\n<color=black>Resep Fusi: </color><color=red>Kipli Tiga Baris Arang + Cabai</color>\n<color=black>Damage: </color><color=red>160×3 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Menembakkan kacang api phoenix yang menembus 2x dan memberikan status Overheat (Red-hot).\n(2) Saat muncul dan mati, melepaskan efek Jalapeno di setiap baris seluruh lapangan.</color></indent>\n\n<color=black>Skill 1: </color>\n<indent=5%><color=red>Amarah Membara: Peluru api memberikan status Overheat; Bonus damage Overheat +100%.</color></indent>\n<color=black>Skill 2: </color>\n<indent=5%><color=red>Tembusan Seratus Langkah: Peluru phoenix penetrasi tak terbatas & bonus damage ledakan. Buka sub-spesies Kipli Phoenix Terbang.</color></indent></color></size>",
+            "info": "<size=14><color=#0d266b>Lahir kembali dari abu phoenix.\n\n<color=black>Syarat Penggunaan: </color><color=red>Mode Travel</color>\n<color=black>Resep Fusi: </color><color=red>Kipli Tiga Baris Arang + Cabai</color>\n<color=black>Damage: </color><color=red>160×3 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Menembakkan kacang api phoenix yang menembus 2x dan memberikan status Overheat (Red-hot).\n(2) Saat muncul dan mati, melepaskan efek Jalapeno di setiap baris seluruh lapangan.</color></indent>\n\n<color=black>Skill 1: </color>\n<indent=5%><color=red>Amarah Membara: Peluru api memberikan status Overheat; Bonus damage Overheat +100%.</color></indent>\n<color=black>Skill 2: </color>\n<indent=5%><color=red>Tembusan Seratus Langkah: Peluru phoenix penetrasi tak terbatas & bonus damage ledakan. Buka sub-spesies Trikipli Phoenix Terbang.</color></indent></color></size>",
             "cost": null
         },
         {
@@ -905,8 +905,8 @@
         },
         {
             "seedType": 928,
-            "name": "King Jamur Halusinasi",
-            "introduce": "<color=#3D1400>Bagaimana dia bisa membuat raksasa tunduk? Di tengah keraguan, King Jamur Halusinasi duduk di menara tinggi sambil meminum nektar mimpi: “Musnah? Tidak, aku hanya membuat mereka lahir kembali dalam ilusi.”</color>",
+            "name": "Ratu Jamur Halusinasi",
+            "introduce": "<color=#3D1400>Bagaimana dia bisa membuat raksasa tunduk? Di tengah keraguan, Ratu Jamur Halusinasi duduk di menara tinggi sambil meminum nektar mimpi: “Musnah? Tidak, aku hanya membuat mereka lahir kembali dalam ilusi.”</color>",
             "info": "<size=14><color=#0d266b>Menghipnotis zombie dalam area luas dan memberikan efek nuklir saat mereka mati.\n\n<color=black>Syarat Penggunaan: </color><color=red>Mode Travel</color>\n<color=black>Resep Fusi: </color><color=red>Jamur Nuklir Es + Jamur Nuklir</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>Melepaskan efek nuklir tanpa damage yang menghipnotis zombie di area luas. Zombie yang terhipnotis akan meledak saat mati/keluar layar (tanpa meninggalkan lubang).</color></indent>\n\n<color=black>Skill 1: </color>\n<indent=5%><color=red>Fusi Nuklir Terkendali: Semua efek nuklir tidak meninggalkan lubang. Buka sub-spesies Jamur Serakah.</color></indent>\n<color=black>Skill 2: </color>\n<indent=5%><color=red>Kekuatan Massa: Saat meledak panggil 3 Gargantuar terpesona. Tiap zombie yang terhipnotis akan memanggil Mobil Es terpesona di sampingnya.</color></indent></color></size>",
             "cost": null
         },
@@ -977,7 +977,7 @@
             "seedType": 938,
             "name": "King Jamur Serakah",
             "introduce": "<color=#3D1400>“Ketakutan dan keraguan itu kecil dibanding keserakahan,” ucapnya sambil melempar koin ke jurang. Dia ahli memanipulasi nafsu dasar manusia. “Keluar lah, aku tahu kau bersembunyi di sana.”</color>",
-            "info": "<size=14><color=#0d266b>Memanggil bos zombie dan zombie Ultimate yang memiliki hadiah tinggi. Risiko tinggi, hadiah tinggi!\n<color=blue>Varian King Jamur Halusinasi</color>\n\n<color=black>Syarat Penggunaan: </color><color=red>Gacha skill di Mode Travel</color>\n<color=black>Resep Konversi: </color><color=red>Jamur Nuklir ←→ Bunga Koin (Marigold)</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Memanggil bos spesifik (seperti Profesor Z atau Ratu Salju) dan zombie Ultimate di tiap kolom.\n(2) Memberikan banyak Matahari, koin, poin skor (1500), dan kartu kotak hadiah saat bos/ultimate zombie mati.</color></indent></color></size>",
+            "info": "<size=14><color=#0d266b>Memanggil bos zombie dan zombie Ultimate yang memiliki hadiah tinggi. Risiko tinggi, hadiah tinggi!\n<color=blue>Varian Ratu Jamur Halusinasi</color>\n\n<color=black>Syarat Penggunaan: </color><color=red>Gacha skill di Mode Travel</color>\n<color=black>Resep Konversi: </color><color=red>Jamur Nuklir ←→ Bunga Koin (Marigold)</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Memanggil bos spesifik (seperti Profesor Z atau Ratu Salju) dan zombie Ultimate di tiap kolom.\n(2) Memberikan banyak Matahari, koin, poin skor (1500), dan kartu kotak hadiah saat bos/ultimate zombie mati.</color></indent></color></size>",
             "cost": null
         },
         {
@@ -1220,7 +1220,7 @@
         },
         {
             "seedType": 973,
-            "name": "King Bawang Kelinci",
+            "name": "Bawang Kelinci",
             "introduce": "<color=#3D1400>“Kami adalah tim sihir dari Menara Sihir Musim Dingin. Lihat syal bulu kami, tidak ada yang lebih hangat dari ini, bahkan sihir petir sekalipun tidak bisa menandinginya.” Pasukan Bawang Kelinci menggoyangkan telinga panjang mereka... Mengenai kenapa bawang bombay punya telinga kelinci? Pertanyaan ini membingungkan para ahli biologi, tapi mereka sendiri tampak sangat senang dengan kondisi ini.</color>",
             "info": "<size=14><color=#0d266b>Menghimpun kekuatan tim untuk melepaskan petir berantai dan membantu Ekor Kucing Ajaib.\n<color=blue>Varian Ekor Kucing Ajaib</color>\n\n<color=black>Syarat Penggunaan: </color><color=red>Ambil skill di Mode Travel</color>\n<color=#3D1400>Resep Konversi: </color><color=red>Ekor Kucing ←→ Bawang Bombay Petir</color>\n<color=black>Damage: </color><color=red>100 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Dapat mengatur satu unit sebagai Kapten (efek petir di kepala) untuk melepaskan petir berantai ke 5 zombie.\n(2) Setiap anggota tim (bukan kapten) akan meningkatkan damage kapten sebesar 1.5x.\n(3) Saat petir membunuh zombie, memicu Ekor Kucing Ajaib untuk memanggil drone bantuan.</color></indent></color></size>",
             "cost": null
@@ -1671,7 +1671,7 @@
             "seedType": 1052,
             "name": "Super Kayu Obor",
             "introduce": "<color=#3D1400>“Panas banget!” seru Super Kayu Obor dengan kesal. Dia bersikeras bahwa cuaca panaslah yang membuat kulitnya merah seperti Cabai di sebelahnya, bahkan api di kepalanya pun ikut berubah merah. Mungkin ini saatnya dia pergi berlibur ke “Area Kereta Luncur” untuk mendinginkan diri.</color>",
-            "info": "<size=14><color=#0d266b>Kayu Obor dengan api yang berkobar hebat, memiliki kemampuan membakar yang sangat kuat.\n\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Memperkuat peluru yang lewat: Kacang, Kacang Kentang, Peluru Api Level Rendah (+40 Damage); Kacang Es (berubah jadi Kacang Biasa); Kacang Hipnotis (+30 Damage); Kacang Pedas (+30 Damage, berubah jadi Peluru Api Merah); Ceri, Peluru Besi, Sun, Queen Sun (Damage x4, Sun yang didapat menjadi 15).\n(2) Memberikan 40 Fire Damage setiap 1.5 detik ke zombie sekitar.\n(3) Melepaskan efek ledakan Cabai saat mati.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kayu Obor Cabai + Cabai</color></color></size>",
+            "info": "<size=14><color=#0d266b>Kayu Obor dengan api yang berkobar hebat, memiliki kemampuan membakar yang sangat kuat.\n\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Memperkuat peluru yang lewat: Kacang, Kacang Kentang, Peluru Api Level Rendah (+40 Damage); Kacang Es (berubah jadi Kacang Biasa); Kacang Hipnotis (+30 Damage); Kacang Pedas (+30 Damage, berubah jadi Peluru Api Merah); Ceri, Peluru Besi, Sun, Ratu Sun (Damage x4, Sun yang didapat menjadi 15).\n(2) Memberikan 40 Fire Damage setiap 1.5 detik ke zombie sekitar.\n(3) Melepaskan efek ledakan Cabai saat mati.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kayu Obor Cabai + Cabai</color></color></size>",
             "cost": null
         },
         {
