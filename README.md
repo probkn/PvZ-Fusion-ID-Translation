@@ -1,7 +1,7 @@
 # PvZ Fusion Bahasa Indonesia
 
 Mod translasi untuk game **Plants vs. Zombies Fusion**. Mod ini bertujuan untuk memudahkan pemain Indonesia memahami alur permainan dan fitur-fitur di dalam game.
-Mod ini sudah tersedia untuk versi 3.5 dan beberapa versi kebawah
+Mod ini sudah tersedia untuk versi 3.6 sampai 3.6.1 dan beberapa versi kebawah
 ---
 
 ### 🛠️ Cara Pasang Mod
